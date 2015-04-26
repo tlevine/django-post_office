@@ -9,3 +9,4 @@ Contributors:
 * Wouter de Vries (@wadevries)
 * Yuri Prezument (@yprez)
 * Ștefan Daniel Mihăilă (@stefan-mihaila)
+* Thomas Levine (thomaslevine.com)
