@@ -559,8 +559,8 @@ Version 0.4.0
 Version 0.3.1
 -------------
 * **IMPORTANT**: ``mail.send`` now expects recipient email addresses as the first
- argument. This change is to allow optional ``sender`` parameter which defaults
- to ``settings.DEFAULT_FROM_EMAIL``
+  argument. This change is to allow optional ``sender`` parameter which defaults
+  to ``settings.DEFAULT_FROM_EMAIL``
 * Fixed a bug where all emails sent from ``mail.send`` have medium priority
 
 Version 0.3.0
